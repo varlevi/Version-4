@@ -1,3 +1,7 @@
+This is a dork for me to fool around with and see what I can do with the infonished new edition of my favorite writing software!
+
+varlevi
+
 # Wavemaker
 
 This is the latest build I'm working on for 2020 release
