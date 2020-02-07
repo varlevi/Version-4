@@ -1,4 +1,4 @@
-This is a dork for me to fool around with and see what I can do with the infonished new edition of my favorite writing software!
+This is a fork for me to fool around with and see what I can do with the unfinished new edition of my favorite writing software!
 
 varlevi
 
